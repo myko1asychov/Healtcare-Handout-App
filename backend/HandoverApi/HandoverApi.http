@@ -1,0 +1,6 @@
+@HandoverApi_HostAddress = http://localhost:5149
+
+GET {{HandoverApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
